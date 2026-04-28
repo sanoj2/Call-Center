@@ -1,4 +1,6 @@
-// JONAS RUNA: < CALL CENTER >
+// JONAS RUNA: < CALL CENTER: Electroacoustic Symphony for 168 Telephones > (2014-2018)
+// 4 Arduino Mega + 12 DFPlayer Mini + 1 WavTrigger
+
 // 1. pitched bells
 #include <Metro.h>
 #include <SoftwareSerial.h>
